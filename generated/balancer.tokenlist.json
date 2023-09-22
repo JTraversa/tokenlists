@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-21T15:25:17.530Z",
+    "timestamp": "2023-09-22T10:53:48.344Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5929,6 +5929,13 @@
             "address": "0xa9a3fD9bEB95EA62eAa9cfFc966fC1fFbe1A6f0d",
             "name": "ShrekCoin",
             "symbol": "SHREK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x40C806394d03d350420d13CD7d1DE1C806f34956",
+            "name": "Balancer qETH/WETH ",
+            "symbol": "qETH/WETH",
             "decimals": 18
         },
         {
